@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "EggTwin",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Eggmin",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Hatchlings.aternos.me",
+    "port": 48618,
     "version": "",
     "try-creative": false
   },
@@ -27,13 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I should not talk"
       ]
     },
     "chat-log": true,
